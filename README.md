@@ -1,11 +1,9 @@
-<pre align="center"><code>K A T R I E L   M O S E S
-principal security engineer / researcher / open-source auditor
-</code></pre>
+<h1 align="center">Katriel Moses</h1>
 
 <p align="center">
-<samp>
-I break software carefully, write reports privately, and publish only after the fix lands.
-</samp>
+<samp><b>Principal Security Engineer</b> / security researcher / open-source auditor</samp>
+<br>
+<sub><samp>I break software carefully, report privately, and publish only after the fix lands.</samp></sub>
 </p>
 
 <p align="center">
@@ -16,24 +14,39 @@ I break software carefully, write reports privately, and publish only after the 
 
 <br>
 
-```console
-rootaccess :: session opened
-scope      :: enterprise networking, offensive security, OSS disclosure
-role       :: Principal Security Engineer @ Lavelle Networks
-mode       :: manual audit > proof of concept > private report > coordinated fix
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+<sub><samp>operator</samp></sub>
+<br>
+<samp><b>Principal Security Engineer @ Lavelle Networks</b></samp>
+</td>
+<td width="33%" valign="top">
+<sub><samp>research</samp></sub>
+<br>
+<samp><b>Offensive security / OSS audits / CVE disclosure</b></samp>
+</td>
+<td width="33%" valign="top">
+<sub><samp>protocol</samp></sub>
+<br>
+<samp><b>Manual review -> private report -> patched advisory</b></samp>
+</td>
+</tr>
+</table>
 
+<samp>
 I lead security for India's fast-growing enterprise networking stack, then spend weekends auditing open-source projects that people quietly depend on. The work is simple: find the broken thing, prove it cleanly, tell the maintainer first, and leave the ecosystem safer than I found it.
+</samp>
 
 <br>
 
-| audited projects | CVEs filed | RCE chains | largest target |
+| <samp>audited projects</samp> | <samp>CVEs filed</samp> | <samp>RCE chains</samp> | <samp>largest target</samp> |
 |:--:|:--:|:--:|:--:|
-| <b>11</b> | <b>20+</b> | <b>5</b> | <b>23k stars</b> |
+| <samp><b>11</b></samp> | <samp><b>20+</b></samp> | <samp><b>5</b></samp> | <samp><b>23k stars</b></samp> |
 
 <br>
 
-### `~/tools`
+### <samp>~/tools</samp>
 
 <table>
 <tr>
@@ -44,7 +57,7 @@ I lead security for India's fast-growing enterprise networking stack, then spend
 
 <b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b>
 <br>
-Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.
+<samp>Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.</samp>
 
 <sub><samp>Python / OSINT / pip install mailaccess</samp></sub>
 
@@ -56,7 +69,7 @@ Self-hostable email OSINT platform for mapping exposure across 800+ platforms, b
 
 <b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b>
 <br>
-Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.
+<samp>Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.</samp>
 
 <sub><samp>Go / Docker / MIT</samp></sub>
 
@@ -66,23 +79,23 @@ Dark web threat-intelligence platform with Tor search, entity extraction, relati
 
 <br>
 
-### `~/advisories`
+### <samp>~/advisories</samp>
 
-| project | advisory | severity | class |
+| <samp>project</samp> | <samp>advisory</samp> | <samp>severity</samp> | <samp>class</samp> |
 |:--|:--|:--:|:--|
-| algernon | CVE-2026-43981 | High | Race condition, DoS via shared LState |
-| algernon | CVE-2026-43982 | High | Path traversal file write via `savein()` |
-| quark-auto-save | CVE-2026-45228 | Medium | Stored XSS via System Configuration |
-| quark-auto-save | CVE-2026-45229 | High | Mass assignment, credential takeover |
-| claude-hud | CVE-2026-47090 | Low | Terminal injection via OSC 8 hyperlinks |
-| claude-hud | CVE-2026-47091 | Medium | Path traversal via `transcript_path` |
-| claude-hud | CVE-2026-47092 | High | Arbitrary command execution via COMSPEC |
+| <samp>algernon</samp> | <samp>CVE-2026-43981</samp> | <samp>High</samp> | <samp>Race condition, DoS via shared LState</samp> |
+| <samp>algernon</samp> | <samp>CVE-2026-43982</samp> | <samp>High</samp> | <samp>Path traversal file write via savein()</samp> |
+| <samp>quark-auto-save</samp> | <samp>CVE-2026-45228</samp> | <samp>Medium</samp> | <samp>Stored XSS via System Configuration</samp> |
+| <samp>quark-auto-save</samp> | <samp>CVE-2026-45229</samp> | <samp>High</samp> | <samp>Mass assignment, credential takeover</samp> |
+| <samp>claude-hud</samp> | <samp>CVE-2026-47090</samp> | <samp>Low</samp> | <samp>Terminal injection via OSC 8 hyperlinks</samp> |
+| <samp>claude-hud</samp> | <samp>CVE-2026-47091</samp> | <samp>Medium</samp> | <samp>Path traversal via transcript_path</samp> |
+| <samp>claude-hud</samp> | <samp>CVE-2026-47092</samp> | <samp>High</samp> | <samp>Arbitrary command execution via COMSPEC</samp> |
 
 <sub><samp>18+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
 
 <br><br>
 
-### `~/audit-offer`
+### <samp>~/audit-offer</samp>
 
 ```text
 free security audits for open-source projects
