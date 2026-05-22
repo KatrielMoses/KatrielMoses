@@ -15,6 +15,8 @@ katriel@rootaccess:~$ whoami
 ```
 Principal Security Engineer @ Lavelle Networks  |  Security Researcher
 
+Leading the Security of India's fastest growing Enterprise Newtorking Solutions.
+
 I spend my weekends auditing open source projects that people use every day,
 not for money, just because the developers building free software deserve to
 know when something is broken.
