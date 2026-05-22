@@ -52,7 +52,7 @@ I lead security for India's fast-growing enterprise networking stack, then spend
 <tr>
 <td width="50%" valign="top">
 
-<pre><code>$ open MailAccess
+<pre><code>$ pip install MailAccess
 </code></pre>
 
 <b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b>
@@ -64,7 +64,7 @@ I lead security for India's fast-growing enterprise networking stack, then spend
 </td>
 <td width="50%" valign="top">
 
-<pre><code>$ open VoidAccess
+<pre><code>$ pip install VoidAccess
 </code></pre>
 
 <b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b>
