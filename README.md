@@ -4,33 +4,26 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td width="250" align="center" valign="middle">
-      <pre><code>
-    ╭───────────╮
-    │  ╭─────╮  │
-    │  │ KM. │  │
-    │  ╰─────╯  │
-    ╰───────────╯
-      </code></pre>
-    </td>
-    <td width="550" valign="middle">
-      <samp>
-        <b style="color: #CBA6F7;">katriel</b>@<b>rootaccess</b><br>
-        ─────────────────────────────────────────<br>
-        <b>OS:</b> Operator & Researcher<br>
-        <b>Role:</b> Principal Security Engineer<br>
-        <b>Focus:</b> OSS Audits / CVE Disclosure<br>
-        <b>Method:</b> Manual review -> private report -> patch<br>
-      </samp>
-      <br>
-      <a href="mailto:katriel@rootaccess.tech"><img alt="email" src="https://img.shields.io/badge/mail-katriel%40rootaccess.tech-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-      <a href="https://linkedin.com/in/katriel-moses"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-katriel--moses-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-      <a href="https://github.com/KatrielMoses/cves"><img alt="cves" src="https://img.shields.io/badge/advisories-KatrielMoses%2Fcves-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<pre><code>
+ ▄    ▄   ▄▄  ▄▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄▄▄ ▄             ▄    ▄  ▄▄▄▄   ▄▄▄▄  ▄▄▄▄▄▄  ▄▄▄▄ 
+ █  ▄▀    ██     █    █   ▀█   █    █      █             ██  ██ ▄▀  ▀▄ █▀   ▀ █      █▀   ▀
+ █▄█     █  █    █    █▄▄▄▄▀   █    █▄▄▄▄▄ █             █ ██ █ █    █ ▀█▄▄▄  █▄▄▄▄▄ ▀█▄▄▄ 
+ █  █▄   █▄▄█    █    █   ▀▄   █    █      █             █ ▀▀ █ █    █     ▀█ █          ▀█
+ █   ▀▄ █    █   █    █    ▀ ▄▄█▄▄  █▄▄▄▄▄ █▄▄▄▄▄        █    █  █▄▄█  ▀▄▄▄█▀ █▄▄▄▄▄ ▀▄▄▄█▀
+</code></pre>
+
+<samp>
+  <b>OS:</b> Operator & Researcher<br>
+  <b>Role:</b> Principal Security Engineer<br>
+  <b>Focus:</b> OSS Audits / CVE Disclosure<br>
+  <b>Method:</b> Manual review -> private report -> patch<br>
+</samp>
+<br>
+<a href="mailto:katriel@rootaccess.tech"><img alt="email" src="https://img.shields.io/badge/mail-katriel%40rootaccess.tech-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
+<a href="https://linkedin.com/in/katriel-moses"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-katriel--moses-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
+<a href="https://github.com/KatrielMoses/cves"><img alt="cves" src="https://img.shields.io/badge/advisories-KatrielMoses%2Fcves-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
+</div>
 
 <br>
 
