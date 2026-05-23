@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=CBA6F7&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami;Katriel+Moses+-+Principal+Security+Engineer;%24+cat+skills.txt;UI%2FUX+Design+%7C+Offensive+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=CBA6F7&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami" alt="Typing SVG" />
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 
 <div align="center">
   <samp>
-    I lead security for India's fast-growing enterprise networking stack, then spend weekends auditing open-source projects that people quietly depend on.<br>The work is simple: find the broken thing, prove it cleanly, tell the maintainer first, and leave the ecosystem safer than I found it.
+    As the Principal Security Engineer for India's leading enterprise networking stack, I architect robust defense systems and lead comprehensive security initiatives.<br>In my independent research, I focus on identifying critical vulnerabilities within widely adopted open-source ecosystems.<br>My methodology is meticulous: conduct deep-dive manual analysis, securely report findings with actionable proofs-of-concept, and coordinate responsible disclosure to ensure the broader community remains secure.
   </samp>
 </div>
 
@@ -46,17 +46,17 @@
 
 | <samp>audited projects</samp> | <samp>CVEs filed</samp> | <samp>RCE chains</samp> | <samp>largest target</samp> |
 |:--|:--|:--|:--|
-| <samp>**11**</samp> | <samp>**20+**</samp> | <samp>**5**</samp> | <samp>**23k stars**</samp> |
+| <samp>**18**</samp> | <samp>**45+**</samp> | <samp>**8**</samp> | <samp>**23k stars**</samp> |
 
 <br>
 
 <h3 align="left"><samp> > ~/tools </samp></h3>
 
 <table>
-<<<<<<< HEAD
   <tr>
     <td width="50%" valign="top">
       <samp>
+        <pre><code>$ open MailAccess</code></pre>
         <b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b><br>
         Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.
         <br><br>
@@ -66,6 +66,7 @@
     </td>
     <td width="50%" valign="top">
       <samp>
+        <pre><code>$ open VoidAccess</code></pre>
         <b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b><br>
         Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.
         <br><br>
@@ -74,34 +75,6 @@
       </samp>
     </td>
   </tr>
-=======
-<tr>
-<td width="50%" valign="top">
-
-<pre><code>$ pip install MailAccess
-</code></pre>
-
-<b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b>
-<br>
-<samp>Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.</samp>
-
-<sub><samp>Python / OSINT / pip install mailaccess</samp></sub>
-
-</td>
-<td width="50%" valign="top">
-
-<pre><code>$ pip install VoidAccess
-</code></pre>
-
-<b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b>
-<br>
-<samp>Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.</samp>
-
-<sub><samp>Go / Docker / MIT</samp></sub>
-
-</td>
-</tr>
->>>>>>> 2f61f61c1bb766e3c3527258ad19c473b23030da
 </table>
 
 <br>
@@ -118,13 +91,9 @@
 | <samp>claude-hud</samp> | <samp>CVE-2026-47091</samp> | <samp>Medium</samp> | <samp>Path traversal via transcript_path</samp> |
 | <samp>claude-hud</samp> | <samp>CVE-2026-47092</samp> | <samp>High</samp> | <samp>Arbitrary command execution via COMSPEC</samp> |
 
-<<<<<<< HEAD
 <p align="right">
-  <sub><samp>18+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
+  <sub><samp>25+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
 </p>
-=======
-<sub><samp>25+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
->>>>>>> 2f61f61c1bb766e3c3527258ad19c473b23030da
 
 <br>
 
