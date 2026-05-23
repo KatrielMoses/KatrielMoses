@@ -53,6 +53,7 @@
 <h3 align="left"><samp> > ~/tools </samp></h3>
 
 <table>
+<<<<<<< HEAD
   <tr>
     <td width="50%" valign="top">
       <samp>
@@ -73,6 +74,34 @@
       </samp>
     </td>
   </tr>
+=======
+<tr>
+<td width="50%" valign="top">
+
+<pre><code>$ pip install MailAccess
+</code></pre>
+
+<b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b>
+<br>
+<samp>Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.</samp>
+
+<sub><samp>Python / OSINT / pip install mailaccess</samp></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<pre><code>$ pip install VoidAccess
+</code></pre>
+
+<b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b>
+<br>
+<samp>Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.</samp>
+
+<sub><samp>Go / Docker / MIT</samp></sub>
+
+</td>
+</tr>
+>>>>>>> 2f61f61c1bb766e3c3527258ad19c473b23030da
 </table>
 
 <br>
@@ -89,9 +118,13 @@
 | <samp>claude-hud</samp> | <samp>CVE-2026-47091</samp> | <samp>Medium</samp> | <samp>Path traversal via transcript_path</samp> |
 | <samp>claude-hud</samp> | <samp>CVE-2026-47092</samp> | <samp>High</samp> | <samp>Arbitrary command execution via COMSPEC</samp> |
 
+<<<<<<< HEAD
 <p align="right">
   <sub><samp>18+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
 </p>
+=======
+<sub><samp>25+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
+>>>>>>> 2f61f61c1bb766e3c3527258ad19c473b23030da
 
 <br>
 
