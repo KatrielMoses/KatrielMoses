@@ -85,7 +85,7 @@
 | <samp>claude-hud</samp> | <samp>CVE-2026-47092</samp> | <samp>High</samp> | <samp>Arbitrary command execution via COMSPEC</samp> |
 
 <p align="right">
-  <sub><samp>25+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
+  <sub><samp>45+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
 </p>
 
 <br>
