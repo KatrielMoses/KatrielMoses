@@ -49,7 +49,7 @@
   <tr>
     <td width="50%" valign="top">
       <samp>
-        <pre><code>$ open MailAccess</code></pre>
+        <pre><code>$ pip install MailAccess</code></pre>
         <b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b><br>
         Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.
         <br><br>
@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top">
       <samp>
-        <pre><code>$ open VoidAccess</code></pre>
+        <pre><code>$ pip install VoidAccess</code></pre>
         <b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b><br>
         Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.
         <br><br>
