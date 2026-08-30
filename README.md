@@ -15,43 +15,28 @@
 <table width="100%">
 <tr>
 <td align="center" width="50%" valign="top">
-
-<img src="assets/mailaccess-logo.svg" width="320" alt="mailaccess"><br><br>
-
-<b>Email OSINT across 2500+ platforms</b><br>
+<a href="https://github.com/KatrielMoses/MailAccess"><img src="assets/mailaccess-logo.svg" width="340" alt="mailaccess"></a>
+<br><br>
+<b>Email OSINT across 2500+ platforms</b>
+<br>
 <sub>breach detection · identity clustering · DNS &amp; web exposure · no API keys</sub>
-
 <br><br>
-
 <code>pip install mailaccess</code>
-
 <br><br>
-
 <a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/github/stars/KatrielMoses/MailAccess?style=flat&label=stars&labelColor=0D0D0D&color=8A1C2B" alt="stars"></a>
-<a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/badge/python-0D0D0D?style=flat&logo=python&logoColor=8A1C2B" alt="python"></a>
-<a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/badge/repo-8A1C2B?style=flat&logo=github&logoColor=white" alt="repo"></a>
-
+<img src="https://img.shields.io/badge/python-0D0D0D?style=flat&logo=python&logoColor=8A1C2B" alt="python">
 </td>
 <td align="center" width="50%" valign="top">
-
-<img src="assets/no-bg-logo.png" width="118" alt="voidaccess"><br>
-<b><samp>voidaccess</samp></b>
-
+<a href="https://github.com/KatrielMoses/voidaccess"><img src="assets/voidaccess-logo.png" width="340" alt="voidaccess"></a>
 <br><br>
-
-<b>Self-hosted dark-web OSINT</b><br>
+<b>Self-hosted dark-web OSINT</b>
+<br>
 <sub>automated threat intel · query → graph in 13 steps · relationship mapping</sub>
-
 <br><br>
-
 <code>pip install voidaccess</code>
-
 <br><br>
-
 <a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/github/stars/KatrielMoses/voidaccess?style=flat&label=stars&labelColor=1E1E32&color=6C6CE5" alt="stars"></a>
-<a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/badge/python-1E1E32?style=flat&logo=python&logoColor=6C6CE5" alt="python"></a>
-<a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/badge/repo-6C6CE5?style=flat&logo=github&logoColor=white" alt="repo"></a>
-
+<img src="https://img.shields.io/badge/python-1E1E32?style=flat&logo=python&logoColor=6C6CE5" alt="python">
 </td>
 </tr>
 </table>
