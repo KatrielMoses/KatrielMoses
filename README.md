@@ -1,117 +1,115 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=CBA6F7&background=00000000&center=true&vCenter=true&width=800&lines=%24+whoami" alt="Typing SVG" />
+
+### katriel moses
+
+`building top-tier security tooling · breaking open source & filing the CVEs`
+
+[rootaccess.tech](https://rootaccess.tech) &nbsp;·&nbsp; [advisories](https://github.com/KatrielMoses/cves)
+
 </div>
 
 <br>
 
-<div align="center">
-<pre><code>
- ▄    ▄   ▄▄  ▄▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄▄▄ ▄             ▄    ▄  ▄▄▄▄   ▄▄▄▄  ▄▄▄▄▄▄  ▄▄▄▄ 
- █  ▄▀    ██     █    █   ▀█   █    █      █             ██  ██ ▄▀  ▀▄ █▀   ▀ █      █▀   ▀
- █▄█     █  █    █    █▄▄▄▄▀   █    █▄▄▄▄▄ █             █ ██ █ █    █ ▀█▄▄▄  █▄▄▄▄▄ ▀█▄▄▄ 
- █  █▄   █▄▄█    █    █   ▀▄   █    █      █             █ ▀▀ █ █    █     ▀█ █          ▀█
- █   ▀▄ █    █   █    █    ▀ ▄▄█▄▄  █▄▄▄▄▄ █▄▄▄▄▄        █    █  █▄▄█  ▀▄▄▄█▀ █▄▄▄▄▄ ▀▄▄▄█▀
-</code></pre>
+<!-- ─────────────  THE TOOLS  ───────────── -->
 
-<samp>
-  <b>OS:</b> Operator & Researcher<br>
-  <b>Role:</b> Principal Security Engineer<br>
-  <b>Focus:</b> OSS Audits / CVE Disclosure<br>
-  <b>Method:</b> Manual review -> private report -> patch<br>
-</samp>
-<br>
-<a href="mailto:katriel@rootaccess.tech"><img alt="email" src="https://img.shields.io/badge/mail-katriel%40rootaccess.tech-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-<a href="https://linkedin.com/in/katriel-moses"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-katriel--moses-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-<a href="https://github.com/KatrielMoses/cves"><img alt="cves" src="https://img.shields.io/badge/advisories-KatrielMoses%2Fcves-111111?style=for-the-badge&labelColor=111111&color=CBA6F7"></a>
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
 
-<br>
+<img src="assets/mailaccess-logo.svg" width="320" alt="mailaccess"><br><br>
 
-<div align="center">
-  <samp>
-    As the Principal Security Engineer for India's leading enterprise networking stack, I architect robust defense systems and lead comprehensive security initiatives.<br>In my independent research, I focus on identifying critical vulnerabilities within widely adopted open-source ecosystems.<br>My methodology is meticulous: conduct deep-dive manual analysis, securely report findings with actionable proofs-of-concept, and coordinate responsible disclosure to ensure the broader community remains secure.
-  </samp>
-</div>
+<b>Email OSINT across 2500+ platforms</b><br>
+<sub>breach detection · identity clustering · DNS &amp; web exposure · no API keys</sub>
 
 <br><br>
 
-<h3 align="left"><samp> > ~/stats </samp></h3>
+<code>pip install mailaccess</code>
 
-| <samp>audited projects</samp> | <samp>CVEs filed</samp> | <samp>RCE chains</samp> | <samp>largest target</samp> |
-|:--|:--|:--|:--|
-| <samp>**18**</samp> | <samp>**45+**</samp> | <samp>**8**</samp> | <samp>**23k stars**</samp> |
+<br><br>
 
-<br>
+<a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/github/stars/KatrielMoses/MailAccess?style=flat&label=stars&labelColor=0D0D0D&color=8A1C2B" alt="stars"></a>
+<a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/badge/python-0D0D0D?style=flat&logo=python&logoColor=8A1C2B" alt="python"></a>
+<a href="https://github.com/KatrielMoses/MailAccess"><img src="https://img.shields.io/badge/repo-8A1C2B?style=flat&logo=github&logoColor=white" alt="repo"></a>
 
-<h3 align="left"><samp> > ~/tools </samp></h3>
+</td>
+<td align="center" width="50%" valign="top">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <samp>
-        <pre><code>$ open MailAccess</code></pre>
-        <b><a href="https://github.com/KatrielMoses/MailAccess">MailAccess</a></b><br>
-        Self-hostable email OSINT platform for mapping exposure across 800+ platforms, breach sources, DNS records, and the open web.
-        <br><br>
-        <img alt="Python" src="https://img.shields.io/badge/-Python-111111?style=flat-square&color=CBA6F7">
-        <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-111111?style=flat-square&color=CBA6F7">
-      </samp>
-    </td>
-    <td width="50%" valign="top">
-      <samp>
-        <pre><code>$ open VoidAccess</code></pre>
-        <b><a href="https://github.com/KatrielMoses/voidaccess">VoidAccess</a></b><br>
-        Dark web threat-intelligence platform with Tor search, entity extraction, relationship graphing, and STIX 2.1 / MISP / Sigma export.
-        <br><br>
-        <img alt="Go" src="https://img.shields.io/badge/-Go-111111?style=flat-square&color=CBA6F7">
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-111111?style=flat-square&color=CBA6F7">
-      </samp>
-    </td>
-  </tr>
+<img src="assets/no-bg-logo.png" width="118" alt="voidaccess"><br>
+<b><samp>voidaccess</samp></b>
+
+<br><br>
+
+<b>Self-hosted dark-web OSINT</b><br>
+<sub>automated threat intel · query → graph in 13 steps · relationship mapping</sub>
+
+<br><br>
+
+<code>pip install voidaccess</code>
+
+<br><br>
+
+<a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/github/stars/KatrielMoses/voidaccess?style=flat&label=stars&labelColor=1E1E32&color=6C6CE5" alt="stars"></a>
+<a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/badge/python-1E1E32?style=flat&logo=python&logoColor=6C6CE5" alt="python"></a>
+<a href="https://github.com/KatrielMoses/voidaccess"><img src="https://img.shields.io/badge/repo-6C6CE5?style=flat&logo=github&logoColor=white" alt="repo"></a>
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<h3 align="left"><samp> > ~/advisories </samp></h3>
+<!-- ─────────────  NOTABLE CVEs  ───────────── -->
 
-| <samp>project</samp> | <samp>advisory</samp> | <samp>severity</samp> | <samp>class</samp> |
+### notable CVEs
+
+<sub>found by manual source review, reported privately, published after the fix shipped.</sub>
+
+| cve | target | class | severity |
 |:--|:--|:--|:--|
-| <samp>algernon</samp> | <samp>CVE-2026-43981</samp> | <samp>High</samp> | <samp>Race condition, DoS via shared LState</samp> |
-| <samp>algernon</samp> | <samp>CVE-2026-43982</samp> | <samp>High</samp> | <samp>Path traversal file write via savein()</samp> |
-| <samp>quark-auto-save</samp> | <samp>CVE-2026-45228</samp> | <samp>Medium</samp> | <samp>Stored XSS via System Configuration</samp> |
-| <samp>quark-auto-save</samp> | <samp>CVE-2026-45229</samp> | <samp>High</samp> | <samp>Mass assignment, credential takeover</samp> |
-| <samp>claude-hud</samp> | <samp>CVE-2026-47090</samp> | <samp>Low</samp> | <samp>Terminal injection via OSC 8 hyperlinks</samp> |
-| <samp>claude-hud</samp> | <samp>CVE-2026-47091</samp> | <samp>Medium</samp> | <samp>Path traversal via transcript_path</samp> |
-| <samp>claude-hud</samp> | <samp>CVE-2026-47092</samp> | <samp>High</samp> | <samp>Arbitrary command execution via COMSPEC</samp> |
+| [CVE-2026-50112](https://www.cve.org/CVERecord?id=CVE-2026-50112) | **Apache CloudStack** | RCE + SSRF → root on KVM host | 🔴 Critical |
+| [CVE-2026-58123](https://www.cve.org/CVERecord?id=CVE-2026-58123) | **Hermes WebUI** | unauthenticated RCE (terminal API) | 🔴 Critical · 9.3 |
+| [CVE-2026-53975](https://www.cve.org/CVERecord?id=CVE-2026-53975) | **OpenChamber** | unauthenticated RCE (command injection) | 🔴 Critical · 9.3 |
+| [CVE-2026-53983](https://www.cve.org/CVERecord?id=CVE-2026-53983) | **Ground Station** | blind SSRF (orbital data URL) | 🔴 Critical · 9.2 |
+| [CVE-2026-10142](https://www.cve.org/CVERecord?id=CVE-2026-10142) | **kafka-python** | DoS (excessive memory allocation) | 🟠 High · 8.7 |
 
-<p align="right">
-  <sub><samp>25+ more in pipeline. Published advisories live at <a href="https://github.com/KatrielMoses/cves">github.com/KatrielMoses/cves</a>.</samp></sub>
-</p>
+<details>
+<summary><sub>more disclosures</sub></summary>
 
 <br>
 
-<h3 align="left"><samp> > ~/audit-offer </samp></h3>
+| cve | target | class | severity |
+|:--|:--|:--|:--|
+| [CVE-2026-45229](https://www.cve.org/CVERecord?id=CVE-2026-45229) | quark-auto-save | mass assignment → credential takeover | High |
+| [CVE-2026-47092](https://www.cve.org/CVERecord?id=CVE-2026-47092) | claude-hud | arbitrary command execution via COMSPEC | High |
+| [CVE-2026-43982](https://www.cve.org/CVERecord?id=CVE-2026-43982) | algernon | path-traversal file write via `savein()` | High |
+| [CVE-2026-43981](https://www.cve.org/CVERecord?id=CVE-2026-43981) | algernon | race condition → DoS via shared LState | High |
+| [CVE-2026-47091](https://www.cve.org/CVERecord?id=CVE-2026-47091) | claude-hud | path traversal via `transcript_path` | Medium |
+| [CVE-2026-45228](https://www.cve.org/CVERecord?id=CVE-2026-45228) | quark-auto-save | stored XSS via system configuration | Medium |
+| [CVE-2026-47090](https://www.cve.org/CVERecord?id=CVE-2026-47090) | claude-hud | terminal injection via OSC 8 hyperlinks | Low |
+
+</details>
+
+<sub>full writeups → [github.com/KatrielMoses/cves](https://github.com/KatrielMoses/cves)</sub>
+
+<br>
+
+<!-- ─────────────  FREE AUDITS  ───────────── -->
+
+### free audits
+
+open source? i'll break it for free.
 
 ```text
-free security audits for open-source projects
-
-deliverables
-  ├── full manual source-code audit
-  ├── private report with working proof-of-concept
-  ├── CVEs filed and advisories published after fixes are live
-  └── certificate confirming the project was reviewed and patched
-
-condition
-  └── the project has to be open source
-
-turnaround
-  └── one weekend, two at most
+you get   →  full manual source review
+          →  private report with a working PoC
+          →  CVE filed + advisory published, after your fix ships
+          →  a note confirming the project was reviewed & patched
+catch     →  it has to be open source
+turnaround→  a weekend. two at most.
 ```
 
 <br>
 
 <div align="center">
-  <samp>
-    <b>[ responsible disclosure ]</b> &nbsp;&nbsp;&nbsp; <b>[ fix first ]</b> &nbsp;&nbsp;&nbsp; <b>[ publish after ]</b>
-  </samp>
+<sub><b>responsible disclosure</b> &nbsp;·&nbsp; <b>fix first</b> &nbsp;·&nbsp; <b>publish after</b></sub>
 </div>
