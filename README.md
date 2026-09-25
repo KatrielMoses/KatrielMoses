@@ -4,7 +4,7 @@
 
 `building top-tier security tooling · breaking open source & filing the CVEs`
 
-[rootaccess.tech](https://rootaccess.tech) &nbsp;·&nbsp; [advisories](https://github.com/KatrielMoses/cves)
+[mailaccess.pro](https://mailaccess.pro) &nbsp;·&nbsp; [advisories](https://github.com/KatrielMoses/cves)
 
 </div>
 
